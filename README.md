@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seal
-- 👀 I’m interested in Go, C++ and C
-- 🌱 I’m currently learning C++ basics and large scale servers in Go
+- 👀 I’m interested in Go, C++, Rust, Solidity
+- 🌱 I’m currently learning C++ intermediate C++ and advanced concurrency in GoLang 
 - 📫 How to reach me:
 - t.me/ketamine 
 
